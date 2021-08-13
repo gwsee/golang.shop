@@ -1,0 +1,7 @@
+https://blog.csdn.net/m0_37731056/article/details/105428129
+
+https://blog.csdn.net/qq_33230584/article/details/81536572
+
+go env -w GOPROXY=https://goproxy.cn,direct
+go mod init 名字
+go mod tidy
